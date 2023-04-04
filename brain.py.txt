@@ -1,4 +1,3 @@
-# sarsa_first
 ```# File: env.py
 # Description: Building the environment-1 for the Mobile Robot to explore
 # Agent - Mobile Robot
